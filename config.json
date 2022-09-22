@@ -1,10 +1,10 @@
 {
     "credentials": {
-        "tenantName": "fabrikamb2c",
-        "clientID": "93733604-cc77-4a3c-a604-87084dd55348"
+        "tenantName": "atriohppartnersb2c",
+        "clientID": "604d5377-0d72-4e15-b516-9a37a34f3b98"
     },
     "policies": {
-        "policyName": "B2C_1_susi"
+        "policyName": "B2C_1_SUSI"
     },
     "resource": {
         "scope": ["tasks.read"]
